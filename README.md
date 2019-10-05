@@ -90,7 +90,7 @@ a:hover{
   <table> <table width=100% cellpadding="20%">
     <td>
 <a href="https://thatsocaroline.github.io/food-hacks.github.io/">Food</a></td> <td></td> <td>
-    <a href="https://thatsocaroline.github.io/house-hacks.github.io/">House</a></td> <td></td> <td><a href="https://thatsocaroline.github.io/tech-hacks.github.io/.">Tech (not working)</a></td>
+    <a href="https://thatsocaroline.github.io/house-hacks.github.io/">House</a></td> <td></td> <td><a href="https://thatsocaroline.github.io/technologyhacks/">Tech</a></td>
     <td></td>
   </table>
 </nav>
