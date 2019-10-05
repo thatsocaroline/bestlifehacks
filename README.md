@@ -1,6 +1,6 @@
 <iDOChtml>
   <header>
-  <h1>Life Hacks</h1>
+    <h1>Life Hacks</h1>
 </header>
 <nav>
   <style>
@@ -100,7 +100,10 @@ a:hover{
   
   <img src="https://i.ytimg.com/vi/cKQQLYc0UqY/maxresdefault.jpg" width="350" height="355">
   
-  <iframe src="https://en.wikipedia.org/wiki/Life_hack" height="355" width="500"></iframe>
+  <h5>What is a life hack?</h5>
+  
+    <iframe src="https://en.wikipedia.org/wiki/Life_hack" width="600" height="400" align="middle"></iframe>
+
 
   <h5>Created by Caroline</h5>
 </html>
