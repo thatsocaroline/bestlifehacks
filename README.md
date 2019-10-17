@@ -1,9 +1,14 @@
 <iDOChtml>
   <header>
     <h1>Life Hacks</h1>
+   
 </header>
 <nav>
   <style>
+    body {
+  display: inline;
+}
+   
     body {
   background:yellow;
 	font-family:Tahoma;
@@ -94,16 +99,16 @@ a:hover{
     <td></td>
   </table>
 </nav>
-    <img src="https://img.youtube.com/vi/UvEExGP9uig/hqdefault.jpg" width="350" height="355">
-  
-  <img src="https://i.ytimg.com/vi/uxFKP0OH4Co/hqdefault.jpg" width="350" height="355">
-  
-  <img src="https://i.ytimg.com/vi/cKQQLYc0UqY/maxresdefault.jpg" width="350" height="355">
+    <img src="https://img.youtube.com/vi/UvEExGP9uig/hqdefault.jpg" width="33%" height="33%">
+  <img src="https://i.ytimg.com/vi/uxFKP0OH4Co/hqdefault.jpg" width="33%" height="33%">
+  <img src="https://i.ytimg.com/vi/cKQQLYc0UqY/maxresdefault.jpg" width="330" height="330">
   
   <h5>What is a life hack?</h5>
   
-    <iframe src="https://en.wikipedia.org/wiki/Life_hack" width="600" height="400" align="middle"></iframe>
+    <iframe src="https://en.wikipedia.org/wiki/Life_hack" width="350" height="400"></iframe>
 
 
   <h5>Created by Caroline</h5>
+    </div>
+
 </html>
