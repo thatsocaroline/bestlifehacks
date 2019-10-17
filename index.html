@@ -100,8 +100,8 @@ a:hover{
     <td></td>
   </table>
 </nav>
-    <img src="https://img.youtube.com/vi/UvEExGP9uig/hqdefault.jpg" width="33%" height="33%" img align="top">
-  <img src="https://i.ytimg.com/vi/uxFKP0OH4Co/hqdefault.jpg" width="33%" height="33%" img align="top">
+    <img src="https://img.youtube.com/vi/UvEExGP9uig/hqdefault.jpg" width="33%" height="330" img align="top">
+  <img src="https://i.ytimg.com/vi/uxFKP0OH4Co/hqdefault.jpg" width="33%" height="330" img align="top">
   <img src="https://i.ytimg.com/vi/cKQQLYc0UqY/maxresdefault.jpg" width="330" height="330" img align="top">
   
   <h5>What is a life hack?</h5>
