@@ -1,115 +1,49 @@
-<iDOChtml>
-  <header>
-    <h1><center>Life Hacks</center></h1>
-    <caption><b><center>Created to make life easier for adults as well as teenagers</center></b></caption>
-</header>
-<nav>
-  <style>
-    }
-    body {
-  display: inline;
-}
-   
-body {
-  background:yellow;
-	font-family:Tahoma;
-}
-header {
-  width: 85%;
-  margin: 0 7.5%;
-}
-nav {
-  color: black;
-  text-align: center;
-  width: 85%;
-  margin: 0 7.5%;
-  
-  
-}
-article {
-	background-color: white;
-  width: 85%;
-  margin: 0 7.5%;
-  padding-left: 2%;
-  padding-right: 2%;
-}
-div {
-  width: 65%;
-  margin-right: 10%;
-  height: 100%;
-  float: left;
-}
-footer {
-	color: #99fa99;
-	font-size: 26px;
-  width: 85%;
-  margin: 0 7.5%;
-}
-h1 {
-  text-align:center;
-	color: black;
-	font-size:7vw;
-}
-h2 {
-  font-family:Cambria;
-	text-align:center;
-	color:black ;
-	font-size:7vw;
-}
-h3 {
-  font-size: 7vw;
-	color:black;
-	text-align: center;
-	font-family: Cambria;
-  padding-bottom: 30px;
-  margin-bottom: 30px;
-  border-bottom: 8px solid #d3a3ff;
-}
-h4 {
-  font-size:7vw
-    ;
-	color:black;
-	text-align: center;
-	font-family: Cambria;
-  margin-top: 0px
-}
-img {padding: 15px;}
-.copyright {
-  color: #b6d8cf;
-  font-size: 12px;
-}
-a:link{
-  color:black;
-  text-decoration:none;
-  background-color:transparent;
-}
-a:visited{
-  color:pink
-    text-decoration:none;
-  Background-color:transparent;
-}
-a:hover{
-  color:blue;
-  text-decoration:underline;    
-}
-  </style>
-  <table> <table width=100% cellpadding="20%">
-    <td>
-<a href="https://thatsocaroline.github.io/food-hacks.github.io/"><span style="color:black">Food</a></td> <td></td> <td>
-    <a href="https://thatsocaroline.github.io/house-hacks.github.io/"><span style="color:black">House</a></td> <td></td> <td><a href="https://thatsocaroline.github.io/technologyhacks/"><span style="color:black">Tech</a></td>
-    <td></td>
-  </table>
-</nav>
-    <img src="https://img.youtube.com/vi/UvEExGP9uig/hqdefault.jpg" width="33%" height="330" img align="top">
-  <img src="https://i.ytimg.com/vi/uxFKP0OH4Co/hqdefault.jpg" width="33%" height="330" img align="top">
-  <img src="https://i.ytimg.com/vi/cKQQLYc0UqY/maxresdefault.jpg" width="330" height="330" img align="top">
-  
-  <h5>What is a life hack?</h5>
- 
-    <iframe src="https://en.wikipedia.org/wiki/Life_hack" width="350" height="400"></iframe>
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>All About Me!</title>
+        <link rel="stylesheet" type="text/css" href="my_style.css">
+    </head>
+    <body>
+       <h1>All About Me!</h1>
+     <p>My name is Caroline Souto, I attend Coral Gables Senior High and this is my "All About Me" page for Foundations of Programming.  I created this page to allow people to get to know more about me and what I enjoy doing during my spare time.
 
+      </p>
+  </body>
+<a href="https://thatsocaroline.github.io/bestlifehacks/">CHECKOUT MY LIFE HACKS</a>
 
-  <h5>Created by Caroline</h5>
-    </div>
-
-</html>
+      <h3>Favorite things/things to do/fun facts</h3>
+    <body style="background-color:cyan;">
+  <ul>
+   <li><h4>Volleyball</h4>
+     <h4>I used to play volleyball after school for about an hour.</h4>
+       <img src="https://i.pinimg.com/originals/0d/a5/a3/0da5a3aa135a439162e9828f3dce746c.png" width="100" height="100"> 
+    <li><h4>Bike riding</h4>
+      <h4>Ever since my dad taught me how to ride bike, I've enjoyed doing it.  Riding bike is a great way to exercise and have fun at the same time.</h4>
+      <img src="https://cdn.iconscout.com/icon/free/png-256/ecology-environment-cycle-bike-riding-bicycle-26836.png" width="100" height="100"> 
+    <li><h4>Singing</h4>
+      <h4>Singing has always been a passion of mine.  Everywhere I go, I sing.</h4>
+      <img src="https://cdn0.iconfinder.com/data/icons/essentials-volume-6/128/hand-microphone-128.png" width="100" height="100">
+    <li><h4>My phone</h4>
+      <h4>A lot of time on my phone is spent scrolling through Instagram, sending snapchats, texting friends, etc...</h4>
+      <img src="https://d1ic4altzx8ueg.cloudfront.net/niche-builder/5b21eaf79136c.png" width="100" height="100">
+    <li><h4>Go out to dinner</h4>
+      <h4>Food has always been something I enjoy.  I've had all kinds of food from Indian to Japanese to Ethiopian, and much more.</h4>
+      <img src="https://images.freshop.com/00256900000002/7160df53747c755998d987d324366cf2_medium.png" width="100" height="100">
+    <li><h4>Spend time with family</h4>
+      <h4>I love my family with all my heart and wouldn't trade them for anything.</h4>
+    <li><h4>Go out with friends</h4>
+      <h4>Whenever I have the chance to hangout with a group of friends, I do just that.  Shoutout to Kayla, Aiyanna, Shelly, Francisca for spending some time with me during the summer.</h4>
+    <li><h4>Watch Bachelor in Paradise on Monday's and Tuesday's</h4>
+       <img src="http://realitysteve.com/wp-content/uploads/2019/08/BIPPoster-1024x538.jpg" width="150" height="100">
+    <li><h4>Listen to music</h4>
+      <h4>My favorite genre of music is rap.  Although the lyrics aren't the best, I do love the beat.</h4>
+      <img src="http://blogs.wisetechlabs.com/wp-content/uploads/2019/09/Apple-Music.png" width="100" height="100">
+    <li><h4>I'm from Miami, Florida and have lived in Miami my whole life.</h4>
+      <h4>A lot of people don't like Miami and I don't blame them for that.  I've never LOVED Miami.  When I get older I'd like to live in Calfornia and pursue in music or film.</h4>
+      <img src="https://www.nelsonmullins.com/storage/65be2e614ac7b31464e77fabdcd4df67.jpeg" width="150" height="100">
+     <li><h4>My biggest accomplishments have been singing a solo at school as well as getting straight A's</h4>
+    <li><h4>I've never liked watching movies</h4>
+      <h4>I'm not able to sit still for THAT long</h4>
+  
+    </html>
