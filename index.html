@@ -95,9 +95,8 @@ a:hover{
   </style>
   <table> <table width=100% cellpadding="20%">
     <td>
-
-<a href="https://thatsocaroline.github.io/food-hacks.github.io/">Food</a></td> <td></td> <td>
-    <a href="https://thatsocaroline.github.io/house-hacks.github.io/">House</a></td> <td></td> <td><a href="https://thatsocaroline.github.io/technologyhacks/">Tech</a></td>
+<a href="https://thatsocaroline.github.io/food-hacks.github.io/"><span style="color:black">Food</a></td> <td></td> <td>
+    <a href="https://thatsocaroline.github.io/house-hacks.github.io/"><span style="color:black">House</a></td> <td></td> <td><a href="https://thatsocaroline.github.io/technologyhacks/"><span style="color:black">Tech</a></td>
     <td></td>
   </table>
 </nav>
