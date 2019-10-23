@@ -10,7 +10,7 @@
   display: inline;
 }
    
-    body {
+body {
   background:yellow;
 	font-family:Tahoma;
 }
@@ -95,6 +95,7 @@ a:hover{
   </style>
   <table> <table width=100% cellpadding="20%">
     <td>
+
 <a href="https://thatsocaroline.github.io/food-hacks.github.io/">Food</a></td> <td></td> <td>
     <a href="https://thatsocaroline.github.io/house-hacks.github.io/">House</a></td> <td></td> <td><a href="https://thatsocaroline.github.io/technologyhacks/">Tech</a></td>
     <td></td>
@@ -105,7 +106,7 @@ a:hover{
   <img src="https://i.ytimg.com/vi/cKQQLYc0UqY/maxresdefault.jpg" width="330" height="330" img align="top">
   
   <h5>What is a life hack?</h5>
-  
+ 
     <iframe src="https://en.wikipedia.org/wiki/Life_hack" width="350" height="400"></iframe>
 
 
